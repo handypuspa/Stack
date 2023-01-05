@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669480674 source:d:\cpp\tpmod10\main.cpp
+	"stack.h"
+
+1669480311 d:\cpp\tpmod10\stack.h
+	<iostream>
+
+1669480537 source:d:\cpp\tpmod10\stack.cpp
+	"stack.h"
+
